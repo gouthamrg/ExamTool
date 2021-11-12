@@ -1,0 +1,8 @@
+Exam Tool:
+
+- Features:
+    1) User registration 
+        - Password encryption - Done
+        - Email verification
+    2) login
+    3) persist in mongoose
